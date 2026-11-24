@@ -16,7 +16,7 @@
     "inngest-cli": "^0.14.6",
     "nodemon": "^2.0.22",
     "prettier": "^2.8.4",
-    "uuid": "^9.0.0"
+    "uuid": "^14.0.0"
   },
   "dependencies": {
     "cors": "^2.8.5",
